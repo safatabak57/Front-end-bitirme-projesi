@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 0px 200px;
+}
+
+.all {
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.header {
+    width: 100%;
+}
+
+.sidebar {
+    width: 20%;
+    float: left;
+}
+
+.sidebar h1{
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.sidebar ul{
+    font-size: 18px;
+}
+
+.slider {
+    width: auto;
+}
+
+.book-1{
+    margin-right: 15px;
+}
+
+.footer {
+    width: 100%;
+    float: left;
+}
